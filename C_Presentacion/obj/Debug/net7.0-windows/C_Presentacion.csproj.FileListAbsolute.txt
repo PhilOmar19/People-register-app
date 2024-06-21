@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\C_Presentacion\obj\Debug\net7.0-windows\C_Presentacion.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\C_Presentacion\obj\Debug\net7.0-windows\C_Presentacion.Form1.resources
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\C_Presentacion\obj\Debug\net7.0-windows\C_Presentacion.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\C_Presentacion\obj\Debug\net7.0-windows\C_Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\C_Presentacion\obj\Debug\net7.0-windows\C_Presentacion.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\C_Presentacion\obj\Debug\net7.0-windows\C_Presentacion.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\C_Presentacion\obj\Debug\net7.0-windows\C_Presentacion.csproj.CoreCompileInputs.cache

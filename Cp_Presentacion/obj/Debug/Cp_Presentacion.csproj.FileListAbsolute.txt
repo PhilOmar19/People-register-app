@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\bin\Debug\Cp_Presentacion.exe.config
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\bin\Debug\Cp_Presentacion.exe
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\bin\Debug\Cp_Presentacion.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\obj\Debug\Cp_Presentacion.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\obj\Debug\Cp_Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\obj\Debug\Cp_Presentacion.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\obj\Debug\Cp_Presentacion.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\obj\Debug\Cp_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\obj\Debug\Cp_Presentacion.exe
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Presentacion\obj\Debug\Cp_Presentacion.pdb

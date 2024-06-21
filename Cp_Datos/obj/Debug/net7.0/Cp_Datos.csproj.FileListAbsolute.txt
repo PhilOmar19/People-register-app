@@ -1,0 +1,30 @@
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Datos.deps.json
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Datos.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Entidad.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Entidad.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\refint\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Datos\obj\Debug\net7.0\ref\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Datos.deps.json
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Datos.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Entidad.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\bin\Debug\net7.0\Cp_Entidad.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\refint\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\ref\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Datos\obj\Debug\net7.0\Cp_Datos.csproj.Up2Date

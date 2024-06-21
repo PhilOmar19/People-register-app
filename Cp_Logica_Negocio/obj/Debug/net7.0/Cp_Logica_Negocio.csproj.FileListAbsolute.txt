@@ -1,0 +1,34 @@
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Logica_Negocio.deps.json
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Logica_Negocio.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Entidad.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Datos.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Entidad.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\refint\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\ref\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Logica_Negocio.deps.json
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Logica_Negocio.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Datos.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Entidad.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Datos.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\bin\Debug\net7.0\Cp_Entidad.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\refint\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logica_Negocio.pdb
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\ref\Cp_Logica_Negocio.dll
+C:\Users\LENOVO\Desktop\My files\Programación II\Trabajos de clase\Proyecto Tarea 3\Multicapa\Cp_Logica_Negocio\obj\Debug\net7.0\Cp_Logic.06BE19C5.Up2Date
